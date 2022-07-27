@@ -1,0 +1,2 @@
+*,::before,::after{margin:0;padding:0;box-sizing:border-box}a{text-decoration:none}ul,ol,li{list-style:none}html,body{height:100%}.wrapper{display:flex;flex-direction:column;min-height:100%}header{flex:0 0 auto;background:#000}main{flex:1 1 auto;background:#9f2828}footer{height:200px;background:#141414}.footer{padding-top:150px;text-align:center;color:#ffffff}
+/*# sourceMappingURL=style.min.css.map */
